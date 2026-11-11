@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+requests
+rasterio
+affine
+pyproj
+h5py
+earthengine-api
+earthaccess
